@@ -1,0 +1,54 @@
+
+
+#cara
+{
+
+	border-radius: 800px;
+	width: 200px;
+	height: 200px;
+}
+
+#columna-izq
+{
+	color:white;
+	background-color:#348e69;
+}
+
+
+.titulos
+{
+	padding-bottom: 5px;
+}
+
+.barra
+{
+	height: 2px;
+	background-color: #e5e5e5;
+}
+
+.columnas
+{
+	padding-top: 20px;
+}
+
+#fondogris
+{
+	background-color: #eaeaea;
+}
+
+
+.informacion
+{
+	background-color: white;
+}
+ .marco
+ {
+ 	background-color: #348e69;
+ 	color: white;
+ }
+
+.espaciado
+{
+	padding-top: 3%;
+}
+
